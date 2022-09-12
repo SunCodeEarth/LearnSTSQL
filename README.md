@@ -21,3 +21,5 @@ FROM staff;
 <br>Results in pgAdmin:<br>
 
 ![Lab 1, Q1 Result A](img/lab1_q2_a.png)
+
+<br> Lab 1, Q2 <br>
