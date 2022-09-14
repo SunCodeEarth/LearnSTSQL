@@ -6,6 +6,7 @@ All lab assignments are expected to be submitted using Github markdown files or 
 <br> Lab 1, Q1 <br>
 
 SQL Code: <br>
+
 ```sql
 -- "--" is used to for comments in a line.
 -- Example SQL
